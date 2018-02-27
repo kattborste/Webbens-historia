@@ -1,0 +1,37 @@
+Hur började webbens uppbyggnad?
+
+Den första versionen av internet skapades av ARPA - Advanced Research Projects Agency - vilket är en amerikansk förmedling som ansvarar 
+för de teknologiska framstegen i armen. Det hela började 1966 när Bob Taylor övertygade ARPAs direktör att bidra pengar till hans nätverkprojekt.
+Han fick då en budget på en miljon kronor från det ballistiska missilförsvarsprogrammet vilket han använde för att nå resultat och tillslut,
+3 år senare, fullborda sitt projekt i form av ARPANET.
+ARPANET var från början tänkt att användas för att skicka e-mail mellan militären och användes på detta sätt enda fram till 1989/1990 när
+organisationen CERN, eller mer specifikt engelsmannen Tim Berners-Lee, utvecklade nätvärket till World Wide Web, alltså internet som det ser
+ut idag. Deras första hemsida - alltså även den första hemsidan överhuvudtaget - var dedikerad till WWW-projektet och beskrev hur man använde
+internet, manövrerade osv.
+
+Hur funkar internet?
+
+En hemsida har tre grundfunktioner: URL, HTTP och HTML.
+En URL - Uniform Resource Locator - är även ofta kallad en webadress och är själva adressen till hemsidan, dvs det du ser i adressfältet 
+och skriver in för att komma till hemsidan som t.ex. www.google.com.
+HTTP - Hypertext Transfer Protocol - är det kommunikationsprotokoll som används för att överföra webbsidor på informationsnätverket WWW
+på Internet. Det hela bygger på ett förfrågan/svar-förfarande mellan en klient och en server. Klienten, vanligtvis en webbläsare, skickar 
+en förfrågan till servern om den får hämta en fil/bild från den.
+HTML - HyperText Markup Language - är ett språk för hypertext och är standarden för hemsidors innehåll. HTML är alltså det som skickas 
+av HTTP.
+
+Internet är alltså en blandning utav dessa funktioner och det är med hjälp utav dem som det fungerar.
+
+
+Webbens påverkan på samhället
+
+Jag tror att de flesta håller med mig när jag säger att internet har ändrat vår vardag.
+Man använder ju liksom internet till allt nuförtiden; blir man utan det så märker man hur viktigt det egentligen är nuförtiden.
+Jag skulle t.ex. aldrig kunna få fram den informationen som jag använt mig utav för att skriva den här texten. Visst, jag skulle 
+kunna gå till ett bibliotek men då skulle jag troligtvis inte få fram nära så mycket fakta. Jag har redan använt mig utav flertalet 
+sidor som källa och allt finns inte nedskrivet i böcker.
+
+Internet har gjort flera saker möjliga och det har även effektiviserat saker och ting.
+T.ex. så är det idag vanligt att man chattar med sina kompisar via hemsidor som Facebook eller appar som Snapchat. Man kan även spela 
+datorspel med folk ifrån hela världen när man förut behövde koppla ihop varandra i ett lokalt nätverk. Man behöver inte heller köpa 
+CD-skivor längre utan man kan t.ex. lyssna på Spotify eller ladda ned/köpa musik online.
