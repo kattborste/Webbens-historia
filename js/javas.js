@@ -2,9 +2,12 @@
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) 
+    {
         document.getElementById("tillToppen").style.display = "block";
-    } else {
+    } 
+    else 
+    {
         document.getElementById("tillToppen").style.display = "none";
     }
 }
