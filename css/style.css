@@ -6,6 +6,9 @@ h3{
 	text-decoration: underline;
 	text-decoration: bold;
 }
+body{
+	background-color: lightgray;
+}
 .marg{
 	margin-top: 30px;
 }
