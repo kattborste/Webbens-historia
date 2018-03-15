@@ -28,3 +28,12 @@ h3{
 #tillToppen:hover{
     background-color: #555; /* Add a dark-grey background on hover */
 }
+.bild{
+	float: left;
+	margin-left: 30px;
+}
+.bild2{
+	float: left;
+	margin-left: 40px;
+	margin-top: 40px;
+}
