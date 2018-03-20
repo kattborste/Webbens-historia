@@ -4,7 +4,7 @@ p{
 h3{
 	font-size: 35px;
 	text-decoration: underline;
-	text-decoration: bold;
+	font-weight: bold;
 }
 body{
 	background-color: lightgray;

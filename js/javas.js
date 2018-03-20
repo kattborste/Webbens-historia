@@ -1,3 +1,6 @@
+// Vid validering finns det vissa fel men det är möjligt att filen inte uppfattas som en javascript-fil
+
+
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
 
